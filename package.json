@@ -1,0 +1,22 @@
+{
+  "name": "07",
+  "version": "1.0.0",
+  "description": "测试仓库，用于存放测试相关的代码和配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:unit": "jest tests/unit",
+    "test:integration": "jest tests/integration"
+  },
+  "keywords": [
+    "testing",
+    "jest",
+    "unit-test",
+    "integration-test"
+  ],
+  "author": "01yixian",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
